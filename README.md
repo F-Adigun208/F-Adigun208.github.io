@@ -13,13 +13,13 @@
 
 # Project 2
 
-**Title:**
+**Title:** [US Consumer fashion shopping behavior](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/8dd05afb75fb5e548d3bd0fb487f1528bac98f88/shopping_behavior_DASHBOARD.xlsx)
 
-**SQL Code:**
+**Tools Used:** Microsoft Excel(Power query,Pivot table, Pivot chart, Slicer) 
 
-**SQL Skills Used:**
-
-**Technology used: SQL server**
 **Project Description:**
 
-Technology used: SQL server
+**Key findings:**
+
+**Dashboard Overview:**
+![Consumerbehavior](Consumerbehavior.png)
