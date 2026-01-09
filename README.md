@@ -23,3 +23,15 @@
 
 **Dashboard Overview:**
 ![Consumerbehavior](Consumerbehavior.png)
+
+# Project 3
+
+**Title:** Workplace Safety Data
+
+**SQL Code:** [Workplace Safety Data-data interrogation and manipulation](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Workplace_safety_data.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
