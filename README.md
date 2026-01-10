@@ -37,3 +37,16 @@
 **Project Description:**
 
 **Technology used:** SQL server
+
+# Project 4
+
+**Title:** Sales Information Data
+
+**SQL Code:** [Sales Information Data-data interrogation and manipulation](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Sales_information_data.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
+
