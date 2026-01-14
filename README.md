@@ -22,7 +22,9 @@
 **Project Description:** This project focuses on the analysis of customers' shopping behavior in the US fashion industry to identify trends, purchasing patterns, and seasonal behavior in 2025. It is designed to provide a comprehensive overview of items purchased, purchase frequency, average spending, and purchases by season. This dashboard allows stakeholders to easily monitor and analyze the industry purchase behavior across locations, payment methods, and shipping types. The dashboard includes the following features:
 
 Purchase frequency: A trend of how often people buy fashion items
+
 Average spending by category: The average amount spent by customers on a fashion category. Providing insight into pricing strategy.
+
 Purchase by season: Seasonal breakdown of customers' purchases. Revealing the season when demands are high
 Customers' location: Top five customers' locations with the highest purchases. Showing the location where the highest sales are recorded.
 Purchase items size: Most purchase sizes across all locations
