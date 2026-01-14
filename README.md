@@ -40,8 +40,7 @@ Purchase items size: Identify the pattern of sales with respect to size, which i
 Purchase by gender: Revealed the pattern of purchases made by gender, providing an insight into the target population
 This dashboard serves as a crucial tool for the fashion retailer management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
-**Dashboard Overview:**
-![Customerbehavior](Customerbehavior.png)
+
 
 # Project 3
 
