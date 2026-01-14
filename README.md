@@ -15,7 +15,7 @@
 
 # Project 2
 
-**Title:** [US Customer fashion shopping behavior](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/shopping_behavior_DASHBOARD.xlsx)
+**Title:** [US Customer fashion shopping behavior 2025](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/shopping_behavior_DASHBOARD.xlsx)
 
 **Tools Used:** Microsoft Excel(Power query, Trim, Proper, Pivot table, Pivot chart, Slicer) 
 
