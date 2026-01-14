@@ -26,20 +26,32 @@ Purchase frequency: A trend of how often people buy fashion items
 Average spending by category: The average amount spent by customers on a fashion category. Providing insight into pricing strategy.
 
 Purchase by season: Seasonal breakdown of customers' purchases. Revealing the season when demands are high
+
 Customers' location: Top five customers' locations with the highest purchases. Showing the location where the highest sales are recorded.
+
 Purchase items size: Most purchase sizes across all locations
+
 Purchased by gender: A distribution of the top ten items purchased by gender. Revealing the trend of purchases made by each gender
-Additionally, the dashboard includes interactive slicers for
+
+Additionally, the dashboard includes interactive slicers for 
+
 Payment method: Filter the data to view which method people prefer in making payments.
+
 Shipping type: Filter the data to determine which method of delivery customers prefer
 
 **Key findings:** 
 Purchase frequency: Reveals a pattern in customers' purchases, highlighting the need for proper inventory planning.
+
 Average spending by category: identify how customers value each accessory, allowing for the standard pricing strategy
+
 Purchase by season: Identify the sales trend by season. Allowing for an accurate demand forecast and strategic planning.
+
 Customers’ location: Revealed the concentration of customers' purchases by location, highlighting regions where supply could be improved
+
 Purchase items size: Identify the pattern of sales with respect to size, which informs the proper stock decision 
+
 Purchase by gender: Revealed the pattern of purchases made by gender, providing an insight into the target population
+
 This dashboard serves as a crucial tool for the fashion retailer management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:** 
