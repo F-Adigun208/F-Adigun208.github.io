@@ -42,7 +42,7 @@ Shipping type: Filter the data to determine which method of delivery customers p
 **Key findings:** 
 Purchase frequency: Reveals a pattern in customers' purchases, highlighting the need for proper inventory planning.
 
-Average spending by category: identify how customers value each accessory, allowing for the standard pricing strategy
+Average spending by category: Identify how customers value each accessory, allowing for the standard pricing strategy
 
 Purchase by season: Identify the sales trend by season. Allowing for an accurate demand forecast and strategic planning.
 
