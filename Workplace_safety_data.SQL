@@ -235,4 +235,4 @@ SELECT age_group
 FROM [dbo].[CSV_Workplace DATA] 
 WHERE Incident_Type='Falling object'
 GROUP BY Age_Group
-ORDER BY F
+ORDER BY Falling_obj DESC
