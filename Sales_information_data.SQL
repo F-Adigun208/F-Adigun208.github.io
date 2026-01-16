@@ -291,7 +291,7 @@ SELECT O.[Order_Number]
   ON O.Customer_ID=C.Customer_ID 
   LEFT JOIN [dbo].[Salesman] As S
   ON O.[Salesman_id]=S.Salesman_ID
-  WHERE C.[Grade] IS NOT NULL AND C.Customer_ID>='1' --meaning customers has placed 1 orders above
+  WHERE C.[Grade] IS NOT NULL AND C.Customer_ID>='1' 
   OR C.Customer_ID IS NULL 
   OR C.[Grade] IS NULL
 
@@ -352,4 +352,4 @@ SELECT S.[Salesman_id]
       ,C.[Salesman_ID]
   FROM [dbo].[Salesman] As S
   CROSS JOIN [dbo].[Customer] As C
-  WHERE S.[city]!=C.[City] AND C.[Grade] IS NULL
+  WHERE S.[city]!=C.[City] AND C.[Grade] IS NOT NULL
