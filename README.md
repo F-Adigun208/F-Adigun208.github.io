@@ -89,9 +89,23 @@ This dashboard serves as a crucial tool for the fashion retailer management team
 
 **SQL Code:** [Workplace Safety Data-data interrogation and manipulation](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Workplace_safety_data.SQL)
 
-**SQL Skills Used:**
+**SQL Skills Used:** 
 
-**Project Description:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT, AVG): Calculated totals, averages, such as incident types and cost, and counted records to analyze data trends.
+
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Grouping (GROUP BY) Grouped rows of data with identical values into summary group.
+
+Data Sorting (ORDER BY) Sort the queried in ascending and descending order.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+
+**Project Description:** 
+
+This project aims to assess the workplace safety data of a US company to identify incident details, hazards, costs, and general risk assessment to prevent future occurrences.  A comprehensive report focusing on specific information, such as incidents by each plant, costs by department, distribution of incident type, and many more were created using various SQL queries.
 
 **Technology used:** SQL server
 
@@ -103,7 +117,23 @@ This dashboard serves as a crucial tool for the fashion retailer management team
 
 **SQL Skills Used:**
 
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT, AVG): Calculated totals, averages, such as incident types and cost, and counted records to analyze data trends.
+
+Data Filtering (WHERE, BETWEEN, IN, OR, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Grouping (GROUP BY) Grouped rows of data with identical values into summary group.
+
+Data Sorting (ORDER BY) Sort the queried in ascending and descending order.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+
+SQL JOINS (LEFT JOIN, RIGHT JOIN, INNER JOIN, FULL OUTER JOIN, CROSS JOIN) Combined rows from sales, customers, and order tables using their unique identifier. sales id, customers id
+
 **Project Description:**
+
+This project aims to create a report from three different sales information tables, consisting of the order table, sales table, and customer table. SQL joins were used to combine information from the customer and sales tables into the order table, and various SQL queries were built on the join query to retrieve appropriate information. 
 
 **Technology used:** SQL server
 
