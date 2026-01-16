@@ -6,9 +6,35 @@
 
 **Tools Used:** Microsoft Excel(Power query, Pivot table, Pivot chart, Data formatting, Trim, Proper) 
 
-**Project Description:**
+**Project Description:** This project involves an ad hoc analysis of financial fraud activities across six countries (the UK, US, FR, DE, TR, NG) to identify behavioral patterns and fraudulent activities. It is designed to provide an overview of fraudulent financial transaction methods that are common to different product categories. The dashboard includes the following feature:
 
-**Key findings:**
+Fraud estimates by country: The estimated value of fraudulent transactions in each country
+ 
+Total transactions & fraud percentage: Percentage of fraudulent transactions per total transactions
+
+Total fraud estimate: Total value of fraudulent transactions
+
+Fraud rate by country: Share of total fraud by each country
+
+Fraud by payment method: Rate of fraudulent transactions by payment method
+
+Fraud by product category: Rate of fraudulent transactions by products. 
+
+**Key findings:** 
+
+Fraud estimates by country: Revealed the monetary value trapped in fraudulent transactions per country. An insight into the severity of fraud in these countries
+
+Total transactions & fraud percentage: Revealing the ratio of fraud in every 10000 transactions. An insight into the magnitude of fraud in these countries
+
+Total fraud estimate: Revealing the aggregate value lost to fraud in all countries. An indication of the impact of fraud on the global economy.
+
+Fraud rate by country: Revealing the level of effort by each country in tackling fraud.
+
+Fraud by payment method: Showing the different payment methods usually used in fraudulent transactions.
+
+Fraud by product category: Showing the different consumer products that are susceptible to fraud activities.
+
+This dashboard serves as a crucial tool that support the fraud detection effort, providing an actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:** 
 ![Financialfraud](Financialfraud.png)
