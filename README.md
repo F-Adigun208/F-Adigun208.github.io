@@ -2,42 +2,47 @@
 
 # Project 1
 
-**Title:** [Financial Fraud 2024](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Financial%20Fraud.xlsx)
+**Title:** [Employee Performance 2023](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Employeeperformance.xlsx)
 
 **Tools Used:** Microsoft Excel(Power query, Pivot table, Pivot chart, Data formatting, Trim, Proper) 
 
-**Project Description:** This project involves an ad hoc analysis of financial fraud activities across six countries (the UK, US, FR, DE, TR, NG) to identify behavioral patterns and fraudulent activities. It is designed to provide an overview of fraudulent financial transaction methods that are common to different product categories. The dashboard includes the following feature:
+**Project Description:** This project involves the analysis of employee performance and productivity in a corporate environment. Specifically, it focuses on details related to an employee's job, work habits, education, and performance. This dashboard allows stakeholders to easily monitor and analyze employee performance across different departments, hire dates, and the number of promotions. The dashboard includes the following features:
 
-Fraud estimates by country: The estimated value of fraudulent transactions in each country
- 
-Total transactions & fraud percentage: Percentage of fraudulent transactions per total transactions
+Employee productivity by training hours: The number of projects handled by the number of hours spent in training.
 
-Total fraud estimate: Total value of fraudulent transactions
+Employee productivity by remote work hours: The number of projects handled by the percentage of time worked remotely.
 
-Fraud rate by country: Share of total fraud by each country
+Employee performance and education: Employee performance rating by education level.
 
-Fraud by payment method: Rate of fraudulent transactions by payment method
+Employee performance and salary: Employee performance rating by salary
 
-Fraud by product category: Rate of fraudulent transactions by products. 
+Employee productivity and overtime hours: The number of projects handled by the total overtime worked for the year. 
+
+Additionally, the dashboard includes an interactive timeline and slicers.
+
+Hire date: The date the employee was hired. 
+
+Promotion: The number of promotions received by the employee
+
+Department: The department in which the employee works.
+
 
 **Key findings:** 
 
-Fraud estimates by country: Revealed the monetary value trapped in fraudulent transactions per country. An insight into the severity of fraud in these countries
+Employee productivity by training hours: Revealed an inconsistent relationship between training hours and productivity. An insight into the development plan of the organization
 
-Total transactions & fraud percentage: Revealing the ratio of fraud in every 10000 transactions. An insight into the magnitude of fraud in these countries
+Employee productivity by remote work hours: Evaluation of the impact of remote work hours frequency on employee productivity. Providing an insight into the organization's working culture approach.
 
-Total fraud estimate: Revealing the aggregate value lost to fraud in all countries. An indication of the impact of fraud on the global economy.
+Employee performance and education: Unveiling the existing pattern between education and employee performance. Offers a perspective on the organization's recruitment strategy.
 
-Fraud rate by country: Revealing the level of effort by each country in tackling fraud.
+Employee performance and salary: Identified the trend between salary and employee performance. Providing insight into the organization's payment structure.
 
-Fraud by payment method: Showing the different payment methods usually used in fraudulent transactions.
+Employee productivity and overtime hours: Analysis of the effect of working overtime on employee productivity. A valuable insight into an organization's operational strategy.
 
-Fraud by product category: Showing the different consumer products that are susceptible to fraud activities.
-
-This dashboard serves as a crucial tool that support the fraud detection effort, providing an actionable insights that drive informed decision-making and strategic planning.
+This dashboard serves as a crucial tool for the organization’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:** 
-![Financialfraud](Financialfraud.png)
+![Employeeperformance](Employeeperform.png)
 
 # Project 2
 
