@@ -148,8 +148,24 @@ This project aims to create a report from three different sales information tabl
 
 **Tools Used:** Power BI (Power query, DAX, Charts, Slicers)
 
-**Project Description:** This project involves analysis of workplace mental health trends in the healthcare industry, an environment characterized by high stress and burnout rates, to identify the major factors responsible for stress and understand how stress and burnout influence mental health absenteeism, job satisfaction, and turnover intentions. This dashboard allows stakeholders to easily monitor and analyze the healthcare workforce's mental health situation across different departments, Job roles, and access to employee assistance programmes. The dashboard includes the following features:
+**Project Description:** This project involves analysis of workplace mental health trends in the healthcare industry, an environment characterized by high stress and burnout rates, to identify the major factors responsible for stress and understand how stress and burnout influence mental health abscence, job satisfaction, and turnover intentions. This dashboard allows stakeholders to easily monitor and analyze the healthcare workforce's mental health situation across different departments, Job roles, and access to employee assistance programmes. The dashboard includes the following features:
 
-**Key findings:**
+Workplace factors: Top three workplace stress factors challenges affecting the employees
+
+Average sress level by job roles: A 1-10 scale measuring job role related stress
+
+Average job satisfaction by stress level: A 1-5 scale rating job statisfaction by stress level
+
+Mental health absences by burnout frequency: Number of mental health related leaves days taken as a result of burnout experience by the employees
+
+Average job satisfaction by burnout frequency: A 1-5 scale rating job statisfaction by burnout frequency 
+
+Mental health abscenses by stress level: Number of mental health related leaves days taken by stress level  
+
+**Key findings:** 
+
+Workplace factors: Reveals top three work related stress factors faced by employees, an insight into the types of challenges faced by the employees at work, aiding prompt intervention adress the challenges.
+
+
 
 **Dashboard Overview:**
