@@ -142,3 +142,14 @@ This project aims to create a report from three different sales information tabl
 
 **Technology used:** SQL server
 
+# Project 5
+
+**Title:** [Healthcare workforce mental health]
+
+**Tools Used:** Power BI (Power query, DAX, Charts, Slicers)
+
+**Project Description:** This project involves analysis of workplace mental health trends in the healthcare industry, an environment characterized by high stress and burnout rates, to identify the major factors responsible for stress and understand how stress and burnout influence mental health absenteeism, job satisfaction, and turnover intentions. This dashboard allows stakeholders to easily monitor and analyze the healthcare workforce's mental health situation across different departments, Job roles, and access to employee assistance programmes. The dashboard includes the following features:
+
+**Key findings:**
+
+**Dashboard Overview:**
