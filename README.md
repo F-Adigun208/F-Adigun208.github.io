@@ -33,7 +33,7 @@ Employee productivity by training hours: Revealed an inconsistent relationship b
 
 Employee productivity by remote work hours: Evaluation of the impact of remote work hours frequency on employee productivity. Providing an insight into the organization's working culture approach.
 
-Employee performance and education: Unveiling the existing pattern between education and employee performance. Offers a perspective on the organization's recruitment strategy.
+Employee performance and education: Unveiled the existing pattern between education and employee performance. Offers a perspective on the organization's recruitment strategy.
 
 Employee performance and salary: Identified the trend between salary and employee performance. Providing insight into the organization's payment structure.
 
@@ -150,7 +150,7 @@ This project aims to create a report from three different sales information tabl
 
 **Project Description:** This project involves analysis of workplace mental health trends in the healthcare industry, an environment characterized by high stress and burnout rates, to identify the major factors responsible for stress and understand how stress and burnout influence mental health abscence, job satisfaction, and turnover intentions. This dashboard allows stakeholders to easily monitor and analyze the healthcare workforce's mental health situation across different departments, Job roles, and access to employee assistance programmes. The dashboard includes the following features:
 
-Workplace factors: Top three workplace stress factors challenges affecting the employees
+Workplace factors: Top three workplace stress factors challenges facing the employees
 
 Average sress level by job roles: A 1-10 scale measuring job role related stress
 
@@ -162,10 +162,26 @@ Average job satisfaction by burnout frequency: A 1-5 scale rating job statisfact
 
 Mental health abscenses by stress level: Number of mental health related leaves days taken by stress level  
 
+Additionally, the dashboard includes an interactive timeline and slicers.
+
+Access to EAP: An indication of employee access to Employee Assistance Programs (Yes/NO)
+
+Turnover intention: An indication of employee intention to leave or remain
+
+Department: List od all departments where employee works
+
 **Key findings:** 
 
-Workplace factors: Reveals top three work related stress factors faced by employees, an insight into the types of challenges faced by the employees at work, aiding prompt intervention adress the challenges.
+Workplace factors: Reveals top three work related stress factors faced by employees, an insight into the types of challenges faced by the employees at work, aiding prompt intervention to address the challenges.
 
+Average sress level by job roles: Shows the degree of stress experience in each job role, offers an insight into the stress hotspot and the need for a proactive well-bieng initiatives.
 
+Average job satisfaction by stress level: Revealed the impact of stress on job satisfaction, providing a perspective on the need for proper management of employees workload
+
+Mental health absences by burnout frequency: Shows the role of burnout on mental health abscenses, an insight into average number of days lost to mental health absences, hence development of a targeted intervention to high burnout departments.
+
+Average job satisfaction by burnout frequency: Revealed the effect of burnout on job satisfaction, providing an actionable insight towards identifying and addressing issues related to work environment.
+
+Mental health abscenses by stress level: Revealed the trend between stress level and mental health abscences, offering an insight to track stress indicators to efectively identify employees at risk.
 
 **Dashboard Overview:**
