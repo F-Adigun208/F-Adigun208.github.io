@@ -144,7 +144,7 @@ This project aims to create a report from three different sales information tabl
 
 # Project 5
 
-**Title:** [Healthcare workforce mental health]
+**Title:** [Healthcare workforce mental health](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/Healthcare%20workforce%20mental%20health.pbix)
 
 **Tools Used:** Power BI (Power query, DAX, Charts, Slicers)
 
@@ -183,7 +183,6 @@ Mental health absences by burnout frequency: Shows the role of burnout on mental
 Average job satisfaction by burnout frequency: Revealed the effect of burnout on job satisfaction, providing an actionable insight towards identifying and addressing issues related to work environment.
 
 Mental health abscenses by stress level: Revealed the trend between stress level and mental health abscences, offering an insight to track stress indicators to efectively identify employees at risk.
-**Dashboard Overview:** 
-![CustomerBehavior](CustomerBehavior.png)
+
 **Dashboard Overview:**
-![Healthcareworkforce]()
+![Healthcareworkforcepbi](Healthcareworkforcepbi.png)
