@@ -183,5 +183,7 @@ Mental health absences by burnout frequency: Shows the role of burnout on mental
 Average job satisfaction by burnout frequency: Revealed the effect of burnout on job satisfaction, providing an actionable insight towards identifying and addressing issues related to work environment.
 
 Mental health abscenses by stress level: Revealed the trend between stress level and mental health abscences, offering an insight to track stress indicators to efectively identify employees at risk.
-
+**Dashboard Overview:** 
+![CustomerBehavior](CustomerBehavior.png)
 **Dashboard Overview:**
+![Healthcareworkforce]()
