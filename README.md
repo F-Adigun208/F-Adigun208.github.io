@@ -185,4 +185,4 @@ Average job satisfaction by burnout frequency: Revealed the effect of burnout on
 Mental health abscenses by stress level: Revealed the trend between stress level and mental health abscences, offering an insight to track stress indicators to efectively identify employees at risk.
 
 **Dashboard Overview:**
-![Healthcareworkforcepbi](Healthcareworkforcepbi.png)
+![Healthcareworkforcepbi](HealthcarementalHealthPBI.png)
